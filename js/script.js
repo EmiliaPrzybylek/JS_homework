@@ -1,4 +1,4 @@
-' use strick';
+'use strict';
 
 const surnames = new Array('Raś', 'Kowalczyk', 'Kustra', 'Adamiec', 'Kosiński', 'Gunia', 'Wybraniec', 'Szczerek', 'Urbanowicz', 'Dukaj');
 
